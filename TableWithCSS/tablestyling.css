@@ -1,0 +1,13 @@
+table{
+    border-collapse:collapse;
+    border: 5px solid black;
+    text-transform: capitalize;
+}
+tr:nth-child(odd)
+{
+    background-color: beige;
+}
+tr:nth-child(even)
+{
+    background-color:dimgrey;
+}
