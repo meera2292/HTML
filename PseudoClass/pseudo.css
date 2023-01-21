@@ -1,0 +1,36 @@
+
+/* p:hover{
+    color: rgb(222, 238, 233);
+    background-color: rgb(17, 156, 54);
+    font-size: 25px;
+s
+} 
+
+
+
+ /* p:hover  :last-child{
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    
+}  */
+/* 
+p:hover  :nth-child(odd){
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+     */
+/* }  */
+body table:hover :first-child{
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+} 
+
+
+
+
+    
+
+
+
