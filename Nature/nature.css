@@ -1,0 +1,68 @@
+body{
+
+background-color:#52b69a;
+color:#1a759f;
+
+
+}
+
+
+ .waterfallpics{
+    
+    border-width:3px;
+    width: 500px;
+    height: 300px;
+    border-color: #b5e48c;
+    border-style: groove;
+    
+}
+#para1
+{
+    font-style: normal;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+/* img{
+    border-width:3px;
+    width: 500px;
+    height: 300px;
+    border-color: #b5e48c;
+    border-style: groove;
+    
+} */
+
+
+th{
+    
+    color: aquamarine;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+  
+}
+input{
+    background-color:#52b69a;
+}
+select{
+    background-color:#52b69a;
+}
+
+
+.table1
+{
+    background-color:#3a5a40;
+    width: 300px;
+    height: 300px;
+    border:10px solid;
+}
+
+.table2{
+    border:10px solid;
+}
