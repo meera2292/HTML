@@ -1,0 +1,141 @@
+body{
+        background-color: #0077b6;
+        color:#03045e;
+    
+    }
+    ul{
+
+        font-style:normal;
+        font-size: medium;
+        font-weight: 1000;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color:#03045e;
+    }
+    #timlist{
+
+        font-style:normal;
+        font-size:small;
+        font-weight: 1000;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color:#03045e;
+        margin-left: 200px;
+        margin-right: 200px;
+        
+
+    }
+    
+     
+    #main1
+    {
+        background-color:#90e0ef;
+        max-width: 1080px;
+        margin: auto;
+        font-style: normal;
+        font-weight: 200;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+    } 
+    
+     #logo{
+        border-width:3px;
+        width: 200px;
+        height:200px;
+        border-color: #b5e48c;
+        border-style: groove;
+        
+    } 
+    #homeimage{
+        border-width:3px;
+        width: 200px;
+        height: 200px;
+        border-color: #b5e48c;
+        border-style: groove;
+        border-radius: 200px;
+        
+    } 
+    #mainimage{
+        border-width:3px;
+        width: 850px;
+        height: 200px;
+        border-color: #b5e48c;
+        border-style: groove;
+        
+
+    } 
+
+    #aboutimage{
+        
+        width: 300px;
+        height: 100px;
+        
+        
+        
+    } 
+    p{
+        text-align: justify;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    pre{
+        text-align: justify;
+        font-size: x-large;
+        margin-left: 200px;
+        margin-right: 200px;
+        font-weight: 300;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    details{
+        text-align: justify;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    
+    
+    th{
+        
+        color: aquamarine;
+        font-size: x-large;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    h1{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    h2{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: center;
+      
+    }
+
+    select{
+        background-color:#52b69a;
+    }
+    
+    
+    .table1
+    {
+        background-color:#3a5a40;
+        width: 300px;
+        height: 300px;
+        border:10px solid;
+    }
+    
+    .table2{
+        border:10px solid;
+    }
+    /* to learn box */
+    .boximage
+    {
+        padding: 2px;
+        border: 5px dotted #0d525f;
+        margin: 0px 600px 0px 100px;
+        border-radius: 10%;
+    }
+
+    .boxcode
+    {
+        margin-left: 600px;
+        border: 30px dotted #0d525f;
+       
+    }
+    
