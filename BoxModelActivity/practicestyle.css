@@ -1,0 +1,23 @@
+body{
+    background-image: url("green.jpeg");
+}
+    
+    .boxcode
+    {
+        
+        border: 10px solid #48ee59;
+        width: 30%;
+        height: 500px;
+        color:#d8d8df;
+        font-size: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        font-weight: bold;
+        font-family: sans-serif;
+        padding-left: 50px;
+        margin-top: 50px;
+        
+       
+    }
+    
+    
