@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+#maindiv
+{
+    width: 100%;
+    height: 200vh;
+    background-image: url('sunset-kerala-aleppay-boat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+#headingdiv
+{
+    width: 100%;
+    height: 10vh;
+    background: linear-gradient(black,#faa307,#dc2f02,black);
+    padding-top:25px;
+    text-align: center;
+
+}
+#menudiv
+{
+    width: 20%;
+    height: 100vh;
+    margin-left: 20px;
+    /* background-color: black; */
+    line-height: 80px;
+    color: bisque;
+    font-family:dancing ;
+    font-size: 20px;
+ 
+    
+}
+li{
+    list-style-type: none;
+}
+li:hover
+{
+    font-style: italic;
+    font-weight:bolder;
+    font-size:30px ;
+    color:#370617
+}
+p::first-line
+{
+    color:#370617 ;
+}
+p::first-letter
+{
+    text-transform: uppercase;
+ 
+    font-weight: bolder;
+    color: #03071e;
+    font-size: 50px;
+}
+#piediv
+{
+  width: 300px;
+  height: 300px;
+  background: conic-gradient(#faa307 0% 35%, #dc2f02 35% 40%, #6a040f 40% 60%, #03071e 60% 85%,#370617 85% 90%,#d00000 90% 92%,#e85d04 92% 100%);
+  margin: 10px;
+ 
+  border-radius: 50%;
+  margin-left: 400px;
+}
+#piediv2
+{
+  width: 300px;
+  height: 300px;
+  background: conic-gradient(from 90deg #faa307 0% 35%, #dc2f02 35% 40%, #6a040f 40% 60%, #03071e 60% 85%,#370617 85% 90%,#d00000 90% 92%,#e85d04 92% 100%);
+  margin: 10px;
+ 
+  border-radius: 50%;
+  margin-left: 400px;
+}
+logo
+{
+    width:30px;
+    height:30px;
+    border-radius: 20%;
+    margin-left: 1000px;
+    margin-top: 2px;
+
+}
+.topheading
+{
+    font-family: dancing;
+    font-size: 70px;
+    font-style: italic;
+    background:linear-gradient(black,#03071e,#370617);
+    -webkit-background-clip: text;
+    color: transparent;
+    
+    
+}
+#content
+{
+    width: 60%;
+    height: 100vh;
+   
+    line-height: 50px;
+    color: bisque;
+    font-family:dancing ;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: justify;
+}
+.flex-container {
+    display: flex;
+}
+table
+{
+    border:2px solid orange;
+    cellspacing:2px;
+    cellpadding:10px;
+    height: 100px;
+    width: 50px;
+
+}
