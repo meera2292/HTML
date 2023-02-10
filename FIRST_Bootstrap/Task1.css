@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap');
+.card1{
+    background-color:#f6c56e;
+
+    /* position: absolute !important;
+    top: 70% !important;
+    left: auto !important; */
+   
+}
+.maindiv
+{
+    padding: 100px;
+}
+.headingcontent
+{
+    color:#323f4b;
+    font-family:Bree Serif !important;
+    font-weight: bolder !important;
+    font-size: 25px;
+    
+}
+.bookbutton{
+    background-color:#ffffff !important;
+    color:#323f4b !important;
+    font-weight: bold !important;
+    border: none !important;
+    border-radius: 20px !important;
+    font-size: 15px !important;
+}
+.pcontent
+{
+    font-family:'Roboto', sans-serif ;
+    color:#323f4b !important;
+    font-weight: bold !important;
+}
+.imgprop
+{
+    height: 800px !important;
+}

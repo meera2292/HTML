@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap');
+.card1{
+    background-color:#020000 !important;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+   
+   
+    
+   
+}
+.backcolor body
+{
+    background-color: #020000 !important;
+}
+
+.maindiv
+{
+   /* border: 2px solid black !important; */
+  
+   border: none !important;
+   
+    
+}
+.headingcontent
+{
+    color:#14df25;
+    font-family:Bree Serif !important;
+   
+    font-size: 50px;
+    
+}
+.facts
+{
+    color:#17d55a;
+    font-family:Bree Serif !important;
+   
+    font-size: 20px;
+    
+}
+
+
+.pcontent
+{
+    font-family:'Roboto', sans-serif ;
+    color:#7b8794!important;
+    font-weight:lighter !important;
+}
+.textinput
+{
+
+    border: none;
+    outline: none;
+}
+.divbg
+{
+    background-color: #323f4b !important;
+    border-radius: 25px;
+}

@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap');
+.card1{
+    background-color:#e63946 !important;
+    
+}
+.maindiv
+{
+   /* border: 2px solid black !important; */
+   
+   background-color: #ade8f4 !important;
+   border:5px solid rgb(228, 223, 223) !important;
+   box-shadow:5px 5px 8px rgb(211, 211, 220), 10px 10px 8px rgb(132, 130, 130), 15px 15px 8px rgb(246, 249, 246);
+
+    
+}
+.headingcontent
+{
+    color:#323f4b;
+    font-family:Bree Serif !important;
+    font-weight: bolder !important;
+    font-size: 18px;
+    
+}
+.bookbutton{
+    background-color:#ffffff !important;
+    color:#171f46 !important;
+    
+    border: 1px solid #d7dfe9 !important;
+    border-radius: 10px !important;
+    font-size: 15px !important;
+}
+.sbutton{
+    background-color:#103cd0 !important;
+    color:#ffffff !important;
+    font-weight: bold !important;
+    border: 1px solid #d7dfe9 !important;
+    
+    font-size: 10px !important;
+}
+.pcontent
+{
+    font-family:'Roboto', sans-serif ;
+    color:#323f4b !important;
+    font-weight: bold !important;
+    font-size: 25px;
+}
+.innerdiv{
+    background-color: white !important;
+    border-radius: 10px;
+
+}
+.div1
+{
+    background-color: #3ebd93;
+    border-radius: 10px;
+}
+.div2
+{
+    background-color: #e668a7;  
+    border-radius: 10px;
+}
+.div3
+{
+    background-color: #a368fc;
+    border-radius: 10px;
+}

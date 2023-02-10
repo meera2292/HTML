@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap');
+.card1{
+    background-color:#020000 !important;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+   
+   
+    
+   
+}
+body
+{
+    background-color: #020000 !important;
+}
+
+.maindiv
+{
+   /* border: 2px solid black !important; */
+  
+   border: none !important;
+   
+    
+}
+.headingcontent
+{
+    color:#ebedee;
+    font-family:Bree Serif !important;
+   
+    font-size: 100px;
+    
+}
+.facts
+{
+    font-size: 200px;
+    color: aliceblue;
+   
+    
+}
+
+
+.pcontent
+{
+    font-family:'Roboto', sans-serif ;
+    color:#ecf1f6!important;
+    font-weight:lighter !important;
+}
+.textinput
+{
+
+    border: none;
+    outline: none;
+}
+.divbg
+{
+    background-color: #3e4c59 !important;
+    border-radius: 25px;
+}
+body{
+    background:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divline
+{
+    width: 50px;
+    height: 5px;
+}
+
+i {
+    border-bottom: solid white 5px;
+}
